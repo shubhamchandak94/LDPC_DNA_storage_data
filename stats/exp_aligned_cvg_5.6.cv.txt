@@ -1,0 +1,5 @@
+num_oligos 14232
+coverage 5.0
+num_reads 71160
+mean 5.0
+coefficient of variation 0.8241370024233532
