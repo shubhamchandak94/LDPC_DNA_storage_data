@@ -6,3 +6,5 @@ Generating .gen file from .pchk file (using code from https://github.com/shubham
 ```
 ./LDPC-codes/make-gen file.pchk file.gen dense
 ```
+
+The generator matrices used for the experiments can also be directly downloaded from [Google Drive](https://drive.google.com/drive/folders/1DBainTAtng_B_HVlLftnnam9UmstYI1o?usp=sharing).
